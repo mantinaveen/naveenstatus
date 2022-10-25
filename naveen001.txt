@@ -1,0 +1,7 @@
+Dependabot updates support for the Python PEP 621 standard
+18 hours ago
+Reduce Dependabot version updates in your Python projects with the increase-if-necessary strategy
+20 hours ago
+npm v9.0.0 released
+22 hours ago
+Secret scanning now stores encrypted
